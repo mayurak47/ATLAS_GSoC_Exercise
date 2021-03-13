@@ -1,2 +1,4 @@
 # ATLAS_GSoC_Exercise
-My solution to the evaluation exercise for the ATLAS Autoencoder project, GSoC 2021
+This repository contains my solution to the GSoC evaluation exercise for the ATLAS Autoencoders project. 
+
+
